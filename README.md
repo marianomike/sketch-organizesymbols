@@ -24,13 +24,13 @@ Copy **`OrganizeSymbols.sketchplugin`** to **Sketch** plugins folder.
 
 ## To Do (Coming Soon)
 
-At the moment, all it can do is line up your symbols in one row, but eventually I'd like it to have:
+At the moment, all it can do is line up your symbols in one row, but eventually I'd like it to have the:
 
 - Ability to set amount per line
 
 - Ability to set space between rows and columns
 
-- Ability organize by section
+- Ability to organize by section
 
 
 ## Author
@@ -38,6 +38,7 @@ At the moment, all it can do is line up your symbols in one row, but eventually 
 Mike Mariano
 
 Email: mike@uiuxartist.com
+
 Twitter: https://twitter.com/marianomike
 
 http://uiuxartist.com
