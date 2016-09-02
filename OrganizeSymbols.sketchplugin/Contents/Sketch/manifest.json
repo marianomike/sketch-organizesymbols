@@ -1,0 +1,27 @@
+{
+  "author" : "Mike Mariano",
+  "commands" : [
+    {
+      "script" : "OrganizeSymbols.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd ctrl shift o",
+      "name" : "Organize Symbols",
+      "identifier" : "organize-symbols",
+    },
+  ],
+  "menu" : {
+    "title" : "Organize Symbols",
+    "isRoot" : true,
+    "items" : [
+      "organize-symbols",
+    ],
+  },
+  "identifier" : "com.marianomike.sketch-plugin.organize-symbols",
+  "description": "Organizes symbol artboards into one row.",
+  "authorEmail" : "mike@uiuxartist.com",
+  "name" : "Organize Symbols",
+  "homepage": "http://uiuxartist.com",
+  "version": "1.0",
+  "compatibleVersion": 3.5,
+  "bundleVersion": 1
+}
