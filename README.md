@@ -37,6 +37,7 @@ At the moment, all it can do is line up your symbols in one row, but eventually 
 
 Mike Mariano
 
-mike@uiuxartist.com
+Email: mike@uiuxartist.com
+Twitter: https://twitter.com/marianomike
 
 http://uiuxartist.com
